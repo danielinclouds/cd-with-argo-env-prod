@@ -1,0 +1,4 @@
+
+cd-with-argo-app:
+  image:
+    tag: "placeholder"
